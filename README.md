@@ -23,12 +23,6 @@
 
 ##
 
-<div>  
-  <a href="https://www.instagram.com/lucas_xis/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="Discordapp.com/users/464794192091021334" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:ls609464@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-silva-78a895236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
 <div align="right">
   <img height="200" src="https://i.pinimg.com/564x/3d/17/2f/3d172f3bbbcc585be294ecd2e0c28f46.jpg"  />
 </div>
